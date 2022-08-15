@@ -1,0 +1,151 @@
+body {
+  width: 901px;
+  margin: auto;
+}
+header {
+  margin-bottom: 30px;
+}
+header nav {
+  width: 901px;
+  margin: auto;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav section {
+  display: flex;
+  margin: 0%;
+}
+
+.topFork{
+width: 50px;
+height: 50px;
+}
+header nav section span h3 {
+  font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Pacifico', cursive;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+header nav section span p{
+  margin-top: 0px;
+}
+header nav section ul{
+
+list-style: none;
+}
+.bar {
+  width: 901px;
+  margin: auto;
+  border: none;
+  padding: 0px;
+  background-image:url(/lab-assets/hr-img.png);
+  background-repeat: round;
+  
+}
+.bar-two {
+  height: 25px;
+  width: 901px;
+  margin: auto;
+  margin-bottom: 20px;
+  border: none;
+  padding: 0px;
+  background-image:url(/lab-assets/hr-img.png);
+  background-repeat: round;
+  
+}
+#girl {
+  margin-top: 20px;
+  height: 50px;
+  width: 50px;
+  /* padding-top: 20px; */
+}
+
+main {
+  width: 901px;
+  margin: auto;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* flex-wrap: wrap; */
+}
+main aside {
+  display: flex;
+  justify-content: space-between;
+}
+main aside span p {
+  color: grey;
+  margin-top: 0px;
+}
+.print {
+  display: flex;
+}
+.print p {
+  color: grey;
+  margin-top: 0px;
+}
+main aside span h1{
+margin: 0%;
+}
+
+main aside span h4{
+  margin: 0%;
+
+}
+#printer {
+  width: 25px;
+  height: 25px;
+  margin: 0%;
+}
+footer {
+  /* background-color: gray; */
+  height: 50px;
+}
+
+nav ul {
+  display: flex;
+  justify-content:end
+}
+
+article {
+  text-indent: 2em;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+  margin-bottom: 1rem;
+}
+button {
+  background-color: orange;
+  color: white;
+  height: 50px;
+  width: 150px;
+}
+h3 {
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+
+p {
+  color: grey;
+}
+
+#ul-one {
+  margin-top: 70px;
+  /* margin: auto; */
+  list-style-type: none;
+  margin-left: 20px;
+  position: absolute;
+  /* right: 50px; */
+}
+
+#ul-two {
+  margin-top: 70px;
+  list-style-type: none;
+  position: absolute;
+  margin-left: 400px;
+}
+footer section {
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
